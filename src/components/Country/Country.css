@@ -1,0 +1,10 @@
+.country {
+    border: 1px solid lightseagreen;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.visited {
+    background-color: bisque;
+}
